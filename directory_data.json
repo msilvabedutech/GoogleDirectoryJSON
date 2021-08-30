@@ -1,0 +1,1299 @@
+{
+    "chromeosdevices": [
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 1230023,
+                    "date": "2021-06-29"
+                }
+            ],
+            "annotatedUser": "dmagio@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1630479600000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        32
+                    ],
+                    "reportTime": "2021-06-29T15:24:44.272Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 35
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 36
+                        }
+                    ],
+                    "reportTime": "2021-06-29T15:25:44.263Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        77
+                    ],
+                    "reportTime": "2021-06-29T17:09:57.131Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 33
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 33
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 32
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 34
+                        }
+                    ],
+                    "reportTime": "2021-06-29T17:10:57.126Z"
+                }
+            ],
+            "deviceId": "08ea9ceb-4bd9-422e-9b0e-6f54b9d7b129",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "1004666880",
+                            "storageTotal": "1004666880",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "11685888",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1004666880",
+                            "storageTotal": "1004666880",
+                            "volumeId": "/media/removable"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/2TwJFYU4StLvKJvLp_G2eDWmSIM\"",
+            "firmwareVersion": "Google_Winky.5216.265.179",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-06-29T15:24:34.887Z",
+            "lastSync": "2021-06-29T17:09:57.893Z",
+            "macAddress": "6c2995896732",
+            "model": "Samsung Chromebook 2 11\" - XE500C12",
+            "orgUnitPath": "/",
+            "osVersion": "91.0.4472.114",
+            "platformVersion": "13904.66.0 (Official Build) stable-channel winky",
+            "recentUsers": [
+                {
+                    "email": "dmagio@gedu.demo.bedu.tech",
+                    "type": "USER_TYPE_MANAGED"
+                }
+            ],
+            "serialNumber": "06979QAH200223",
+            "status": "ACTIVE",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-06-29T15:24:44.272Z",
+                    "systemRamFreeInfo": [
+                        "1094496256"
+                    ]
+                },
+                {
+                    "reportTime": "2021-06-29T17:09:57.131Z",
+                    "systemRamFreeInfo": [
+                        "864178176"
+                    ]
+                }
+            ],
+            "systemRamTotal": "2009333760",
+            "tpmVersionInfo": {
+                "family": "312e3200",
+                "firmwareVersion": "420",
+                "manufacturer": "49465800",
+                "specLevel": "200000003",
+                "tpmModel": "ffffffff",
+                "vendorSpecific": "\u0004 \u0003o\u0000tpm38\ufffd\ufffd\ufffd"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 5280075,
+                    "date": "2020-11-29"
+                },
+                {
+                    "activeTime": 30000,
+                    "date": "2020-11-30"
+                }
+            ],
+            "annotatedUser": "cyrano@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1780297200000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "iwlwifi\n",
+                            "temperature": 37
+                        }
+                    ],
+                    "reportTime": "2020-11-29T21:12:44.088Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        82
+                    ],
+                    "reportTime": "2020-11-29T21:24:13.301Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 43
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 35
+                        }
+                    ],
+                    "reportTime": "2020-11-29T21:25:13.294Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        81
+                    ],
+                    "reportTime": "2020-11-29T22:48:14.160Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 33
+                        }
+                    ],
+                    "reportTime": "2020-11-29T22:49:14.153Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        4
+                    ],
+                    "reportTime": "2020-11-30T01:44:06.642Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 39
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 32
+                        }
+                    ],
+                    "reportTime": "2020-11-30T01:44:58.778Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        34
+                    ],
+                    "reportTime": "2020-11-30T13:18:03.952Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 46
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 46
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 46
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 37
+                        }
+                    ],
+                    "reportTime": "2020-11-30T13:19:03.935Z"
+                }
+            ],
+            "deviceId": "75110c34-ef67-4aff-927c-f559ef910676",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "18957901824",
+                            "storageTotal": "21996134400",
+                            "volumeId": "/home/chronos/u-ac2caf47099e52c4d944826e807569e674125d0f/MyFiles"
+                        },
+                        {
+                            "storageFree": "1995427840",
+                            "storageTotal": "1995427840",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "1152921504606846976",
+                            "storageTotal": "1152921504606846976",
+                            "volumeId": "/media/fuse/drivefs-937eecd19497d65ee26425f937cc3a9e"
+                        },
+                        {
+                            "storageFree": "11681792",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1995427840",
+                            "storageTotal": "1995427840",
+                            "volumeId": "/media/removable"
+                        },
+                        {
+                            "storageFree": "1152921504606846976",
+                            "storageTotal": "1152921504606846976",
+                            "volumeId": "/media/fuse/drivefs-937eecd19497d65ee26425f937cc3a9e"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/ywyuWDZlChDzQeQLnVvip4X0Ngw\"",
+            "firmwareVersion": "Google_Casta.11297.193.0",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2020-11-28T13:29:55.346Z",
+            "lastKnownNetwork": [
+                {
+                    "ipAddress": "192.168.9.137",
+                    "wanIpAddress": "187.84.96.1"
+                }
+            ],
+            "lastSync": "2020-12-08T13:45:50.806Z",
+            "macAddress": "a4b1c180d941",
+            "manufactureDate": "2020-11-17",
+            "model": "Samsung Chromebook 4",
+            "orgUnitPath": "/",
+            "osVersion": "86.0.4240.198",
+            "platformVersion": "13421.99.0 (Official Build) stable-channel octopus",
+            "recentUsers": [
+                {
+                    "email": "teste5@gedu.demo.bedu.tech",
+                    "type": "USER_TYPE_MANAGED"
+                }
+            ],
+            "serialNumber": "09S29QANB05516W",
+            "status": "DEPROVISIONED",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2020-11-29T21:24:13.301Z",
+                    "systemRamFreeInfo": [
+                        "2500030464"
+                    ]
+                },
+                {
+                    "reportTime": "2020-11-29T22:48:14.160Z",
+                    "systemRamFreeInfo": [
+                        "2660806656"
+                    ]
+                },
+                {
+                    "reportTime": "2020-11-30T01:44:06.642Z",
+                    "systemRamFreeInfo": [
+                        "2291023872"
+                    ]
+                },
+                {
+                    "reportTime": "2020-11-30T13:18:03.952Z",
+                    "systemRamFreeInfo": [
+                        "2512519168"
+                    ]
+                }
+            ],
+            "systemRamTotal": "3990859776",
+            "tpmVersionInfo": {
+                "family": "322e3000",
+                "firmwareVersion": "2da4373004bc089b",
+                "manufacturer": "43524f53",
+                "specLevel": "74",
+                "tpmModel": "1",
+                "vendorSpecific": "784347206654504D"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 30000,
+                    "date": "2020-11-26"
+                },
+                {
+                    "activeTime": 30000,
+                    "date": "2020-11-27"
+                }
+            ],
+            "annotatedUser": "cyrano@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1780297200000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        42
+                    ],
+                    "reportTime": "2020-11-27T12:04:10.441Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 34
+                        }
+                    ],
+                    "reportTime": "2020-11-27T12:05:10.416Z"
+                }
+            ],
+            "deviceId": "ac1fd378-be8f-4ec0-adc4-310448f5587b",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "1995440128",
+                            "storageTotal": "1995440128",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "11681792",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1995440128",
+                            "storageTotal": "1995440128",
+                            "volumeId": "/media/removable"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/sSGQh2B7_XeWOM08XRa7PzEZ7mU\"",
+            "firmwareVersion": "Google_Casta.11297.193.0",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2020-11-27T12:04:08.072Z",
+            "lastSync": "2020-11-27T12:04:08.840Z",
+            "macAddress": "50eb71481408",
+            "manufactureDate": "2019-09-20",
+            "model": "Samsung Chromebook 4",
+            "orgUnitPath": "/",
+            "osVersion": "86.0.4240.77",
+            "platformVersion": "13421.53.0 (Official Build) stable-channel octopus",
+            "serialNumber": "1C8891ZM900103D",
+            "status": "DEPROVISIONED",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2020-11-27T12:04:10.441Z",
+                    "systemRamFreeInfo": [
+                        "2585903104"
+                    ]
+                }
+            ],
+            "systemRamTotal": "3990884352",
+            "tpmVersionInfo": {
+                "family": "322e3000",
+                "firmwareVersion": "2da4373004bc089b",
+                "manufacturer": "43524f53",
+                "specLevel": "74",
+                "tpmModel": "1",
+                "vendorSpecific": "784347206654504D"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 30000,
+                    "date": "2021-06-29"
+                },
+                {
+                    "activeTime": 90000,
+                    "date": "2021-07-05"
+                }
+            ],
+            "annotatedUser": "dmagio@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1630479600000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        47
+                    ],
+                    "reportTime": "2021-07-06T01:21:40.928Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 35
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 36
+                        }
+                    ],
+                    "reportTime": "2021-07-06T01:22:40.894Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        64
+                    ],
+                    "reportTime": "2021-07-06T01:24:20.977Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 39
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 40
+                        }
+                    ],
+                    "reportTime": "2021-07-06T01:25:20.949Z"
+                }
+            ],
+            "deviceId": "4417b7d8-2771-4950-a5bc-2ad1588d1022",
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/KWcXrvF2-CdEPnnAFNFBKJ8WJls\"",
+            "firmwareVersion": "Google_Winky.5216.265.179",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-07-06T01:29:40.114Z",
+            "lastSync": "2021-07-06T01:29:41.830Z",
+            "macAddress": "6c299584fb1b",
+            "model": "Samsung Chromebook 2 11\" - XE500C12",
+            "orgUnitPath": "/",
+            "osVersion": "84.0.4147.136",
+            "platformVersion": "13099.110.0 (Official Build) stable-channel winky",
+            "recentUsers": [
+                {
+                    "email": "dmagio@gedu.demo.bedu.tech",
+                    "type": "USER_TYPE_MANAGED"
+                }
+            ],
+            "serialNumber": "06979QBGA00803",
+            "status": "DEPROVISIONED",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-07-06T01:21:40.928Z",
+                    "systemRamFreeInfo": [
+                        "935022592"
+                    ]
+                },
+                {
+                    "reportTime": "2021-07-06T01:24:20.977Z",
+                    "systemRamFreeInfo": [
+                        "965775360"
+                    ]
+                }
+            ],
+            "systemRamTotal": "0",
+            "tpmVersionInfo": {
+                "family": "312e3200",
+                "firmwareVersion": "422",
+                "manufacturer": "49465800",
+                "specLevel": "200000003",
+                "tpmModel": "ffffffff",
+                "vendorSpecific": "042203F20274706D3338FFFFFF"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 30000,
+                    "date": "2021-06-29"
+                }
+            ],
+            "annotatedUser": "dmagio@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1630479600000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        25
+                    ],
+                    "reportTime": "2021-06-29T16:48:58.444Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 40
+                        }
+                    ],
+                    "reportTime": "2021-06-29T16:49:58.430Z"
+                }
+            ],
+            "deviceId": "282bdd9f-5a83-490a-8dba-6615b2919647",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "1004744704",
+                            "storageTotal": "1004744704",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "11685888",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1004744704",
+                            "storageTotal": "1004744704",
+                            "volumeId": "/media/removable"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/dzio0eqnK_aI8FtsUeGI2s8FfUI\"",
+            "firmwareVersion": "Google_Winky.5216.265.179",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-06-29T16:48:49.447Z",
+            "lastSync": "2021-06-29T16:48:51.343Z",
+            "macAddress": "6c299575a4f9",
+            "model": "Samsung Chromebook 2 11\" - XE500C12",
+            "orgUnitPath": "/",
+            "osVersion": "80.0.3987.128",
+            "platformVersion": "12739.87.0 (Official Build) stable-channel winky",
+            "serialNumber": "06979QBGA00073",
+            "status": "ACTIVE",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-06-29T16:48:58.444Z",
+                    "systemRamFreeInfo": [
+                        "998268928"
+                    ]
+                }
+            ],
+            "systemRamTotal": "2009489408",
+            "tpmVersionInfo": {
+                "family": "312e3200",
+                "firmwareVersion": "420",
+                "manufacturer": "49465800",
+                "specLevel": "200000003",
+                "tpmModel": "ffffffff",
+                "vendorSpecific": "0420036F0074706D3338FFFFFF"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 60000,
+                    "date": "2021-06-29"
+                }
+            ],
+            "annotatedUser": "dmagio@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1630479600000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        23
+                    ],
+                    "reportTime": "2021-06-29T16:49:16.123Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 38
+                        },
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 38
+                        }
+                    ],
+                    "reportTime": "2021-06-29T16:50:16.087Z"
+                }
+            ],
+            "deviceId": "82251f73-5950-4f5a-b04e-3f102385cb1b",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "1004658688",
+                            "storageTotal": "1004658688",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "11685888",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1004658688",
+                            "storageTotal": "1004658688",
+                            "volumeId": "/media/removable"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/Q3F_3sjl1YaxZ8mCs2cKdqEsvQI\"",
+            "firmwareVersion": "Google_Winky.5216.265.179",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-06-29T16:49:04.541Z",
+            "lastSync": "2021-06-29T16:49:06.216Z",
+            "macAddress": "6c29958937f3",
+            "model": "Samsung Chromebook 2 11\" - XE500C12",
+            "orgUnitPath": "/",
+            "osVersion": "84.0.4147.110",
+            "platformVersion": "13099.85.0 (Official Build) stable-channel winky",
+            "serialNumber": "06979QAH200254",
+            "status": "ACTIVE",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-06-29T16:49:16.123Z",
+                    "systemRamFreeInfo": [
+                        "881131520"
+                    ]
+                }
+            ],
+            "systemRamTotal": "2009317376",
+            "tpmVersionInfo": {
+                "family": "312e3200",
+                "firmwareVersion": "422",
+                "manufacturer": "49465800",
+                "specLevel": "200000003",
+                "tpmModel": "ffffffff",
+                "vendorSpecific": "042203F20274706D3338FFFFFF"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 300004,
+                    "date": "2021-07-29"
+                },
+                {
+                    "activeTime": 60000,
+                    "date": "2021-08-12"
+                },
+                {
+                    "activeTime": 4470400,
+                    "date": "2021-08-27"
+                }
+            ],
+            "annotatedLocation": "4545454,121",
+            "annotatedUser": "tsilva@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1654066800000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        90
+                    ],
+                    "reportTime": "2021-08-27T14:13:10.003Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 33
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 43
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 45
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 38
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 34
+                        }
+                    ],
+                    "reportTime": "2021-08-27T14:14:10.456Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        84
+                    ],
+                    "reportTime": "2021-08-27T14:15:49.449Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 36
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 46
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 49
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 38
+                        }
+                    ],
+                    "reportTime": "2021-08-27T14:16:46.998Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        52
+                    ],
+                    "reportTime": "2021-08-27T14:28:28.939Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 37
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 48
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 51
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 47
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 38
+                        }
+                    ],
+                    "reportTime": "2021-08-27T14:29:26.287Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        60
+                    ],
+                    "reportTime": "2021-08-27T14:34:11.828Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 34
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 45
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 37
+                        }
+                    ],
+                    "reportTime": "2021-08-27T14:35:11.828Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        54
+                    ],
+                    "reportTime": "2021-08-27T14:42:15.056Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 51
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 54
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 47
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 41
+                        }
+                    ],
+                    "reportTime": "2021-08-27T14:43:12.075Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        88
+                    ],
+                    "reportTime": "2021-08-27T15:04:15.462Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 36
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 43
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 49
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 39
+                        }
+                    ],
+                    "reportTime": "2021-08-27T15:05:15.453Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        86
+                    ],
+                    "reportTime": "2021-08-27T17:53:55.818Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 32
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 42
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 40
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 33
+                        }
+                    ],
+                    "reportTime": "2021-08-27T17:54:55.799Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        56
+                    ],
+                    "reportTime": "2021-08-27T17:58:54.388Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 35
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 46
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 49
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 44
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 37
+                        }
+                    ],
+                    "reportTime": "2021-08-27T17:59:50.510Z"
+                },
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        44
+                    ],
+                    "reportTime": "2021-08-27T18:27:07.202Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "soc_dts1\n",
+                            "temperature": 34
+                        },
+                        {
+                            "label": "Core 2\n",
+                            "temperature": 45
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 48
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 41
+                        },
+                        {
+                            "label": "soc_dts0\n",
+                            "temperature": 36
+                        }
+                    ],
+                    "reportTime": "2021-08-27T18:28:03.124Z"
+                }
+            ],
+            "deviceId": "476aacea-900a-4a81-bfe4-c00a9bf2c4a0",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "22248517632",
+                            "storageTotal": "26256551936",
+                            "volumeId": "/home/chronos/u-5891999c11c73515bc27e2b3a7f50af265ef2ade/MyFiles"
+                        },
+                        {
+                            "storageFree": "22248517632",
+                            "storageTotal": "26256551936",
+                            "volumeId": "/run/arc/sdcard/write/emulated/0"
+                        },
+                        {
+                            "storageFree": "2037366784",
+                            "storageTotal": "2037366784",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "1152921504606781440",
+                            "storageTotal": "1152921504606846976",
+                            "volumeId": "/media/fuse/drivefs-0bb73122be1ff8da5a708e20268414ef"
+                        },
+                        {
+                            "storageFree": "11681792",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "2037366784",
+                            "storageTotal": "2037366784",
+                            "volumeId": "/media/removable"
+                        },
+                        {
+                            "storageFree": "1152921504606781440",
+                            "storageTotal": "1152921504606846976",
+                            "volumeId": "/media/fuse/drivefs-0bb73122be1ff8da5a708e20268414ef"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/HV135ieXzvHw1-hUBuAfHmUkh-I\"",
+            "firmwareVersion": "Google_Relm.7287.370.0",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-08-27T14:13:01.499Z",
+            "lastKnownNetwork": [
+                {
+                    "ipAddress": "192.168.15.37",
+                    "wanIpAddress": "2804:431:e7db:56eb:e433:48b6:e3c7:ceed"
+                }
+            ],
+            "lastSync": "2021-08-27T18:27:04.654Z",
+            "macAddress": "2016b93b98ef",
+            "model": "Acer Chromebook 11 N7 (C731, C731T)",
+            "notes": "GPS",
+            "orgUnitPath": "/",
+            "osVersion": "92.0.4515.162",
+            "platformVersion": "13982.88.0 (Official Build) stable-channel relm",
+            "recentUsers": [
+                {
+                    "email": "tsilva@gedu.demo.bedu.tech",
+                    "type": "USER_TYPE_MANAGED"
+                },
+                {
+                    "email": "teste5@gedu.demo.bedu.tech",
+                    "type": "USER_TYPE_MANAGED"
+                }
+            ],
+            "serialNumber": "NXH0HAL00190429AED9501",
+            "status": "ACTIVE",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-08-27T14:13:10.003Z",
+                    "systemRamFreeInfo": [
+                        "2270130176"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T14:15:49.449Z",
+                    "systemRamFreeInfo": [
+                        "2310823936"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T14:28:28.939Z",
+                    "systemRamFreeInfo": [
+                        "1798320128"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T14:34:11.828Z",
+                    "systemRamFreeInfo": [
+                        "1673924608"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T14:42:15.056Z",
+                    "systemRamFreeInfo": [
+                        "1672601600"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T15:04:15.462Z",
+                    "systemRamFreeInfo": [
+                        "2647261184"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T17:53:55.818Z",
+                    "systemRamFreeInfo": [
+                        "2760335360"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T17:58:54.388Z",
+                    "systemRamFreeInfo": [
+                        "2360381440"
+                    ]
+                },
+                {
+                    "reportTime": "2021-08-27T18:27:07.202Z",
+                    "systemRamFreeInfo": [
+                        "2146578432"
+                    ]
+                }
+            ],
+            "systemRamTotal": "4074737664",
+            "tpmVersionInfo": {
+                "family": "312e3200",
+                "firmwareVersion": "420",
+                "manufacturer": "49465800",
+                "specLevel": "200000003",
+                "tpmModel": "ffffffff",
+                "vendorSpecific": "\u0004 \u0003o\u0000tpm38\ufffd\ufffd\ufffd"
+            }
+        },
+        {
+            "activeTimeRanges": [
+                {
+                    "activeTime": 30000,
+                    "date": "2021-08-16"
+                }
+            ],
+            "annotatedUser": "rinaldo@gedu.demo.bedu.tech",
+            "autoUpdateExpiration": "1780297200000",
+            "bootMode": "Verified",
+            "cpuStatusReports": [
+                {
+                    "cpuUtilizationPercentageInfo": [
+                        17
+                    ],
+                    "reportTime": "2021-08-16T18:34:39.441Z"
+                },
+                {
+                    "cpuTemperatureInfo": [
+                        {
+                            "label": "Core 1\n",
+                            "temperature": 30
+                        },
+                        {
+                            "label": "Package id 0\n",
+                            "temperature": 30
+                        },
+                        {
+                            "label": "Core 0\n",
+                            "temperature": 30
+                        },
+                        {
+                            "label": "iwlwifi_1\n",
+                            "temperature": 24
+                        }
+                    ],
+                    "reportTime": "2021-08-16T18:35:39.427Z"
+                }
+            ],
+            "deviceId": "68e8c5d8-f050-45b4-997f-350b08ba841f",
+            "diskVolumeReports": [
+                {
+                    "volumeInfo": [
+                        {
+                            "storageFree": "1995476992",
+                            "storageTotal": "1995476992",
+                            "volumeId": "/media/archive"
+                        },
+                        {
+                            "storageFree": "11681792",
+                            "storageTotal": "12042240",
+                            "volumeId": "/usr/share/oem"
+                        },
+                        {
+                            "storageFree": "1995476992",
+                            "storageTotal": "1995476992",
+                            "volumeId": "/media/removable"
+                        }
+                    ]
+                }
+            ],
+            "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/gC4Z8gdu8kvGLmZDYUQ2pmNr7Yg\"",
+            "firmwareVersion": "Google_Casta.11297.83.3",
+            "kind": "admin#directory#chromeosdevice",
+            "lastEnrollmentTime": "2021-08-16T18:34:57.752Z",
+            "lastSync": "2021-08-16T18:34:59.445Z",
+            "macAddress": "50eb7148223b",
+            "manufactureDate": "2019-09-20",
+            "model": "Samsung Chromebook 4",
+            "orgUnitPath": "/",
+            "osVersion": "90.0.4430.218",
+            "platformVersion": "13816.82.0 (Official Build) stable-channel octopus",
+            "serialNumber": "1C8891ZM900091E",
+            "status": "DEPROVISIONED",
+            "systemRamFreeReports": [
+                {
+                    "reportTime": "2021-08-16T18:34:39.441Z",
+                    "systemRamFreeInfo": [
+                        "2384551936"
+                    ]
+                }
+            ],
+            "systemRamTotal": "3990958080",
+            "tpmVersionInfo": {
+                "family": "322e3000",
+                "firmwareVersion": "57b99b4e017246f8",
+                "manufacturer": "43524f53",
+                "specLevel": "74",
+                "tpmModel": "1",
+                "vendorSpecific": "xCG fTPM"
+            }
+        }
+    ],
+    "etag": "\"jU41SRtWIAfoLzcTxu8ldh8oAWnTyj8bXpPMVPE5dps/N3q50uLJ-82c3gx6w2tbRVrhFn0\"",
+    "kind": "admin#directory#chromeosdevices"
+}
