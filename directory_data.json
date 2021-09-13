@@ -1,4 +1,3 @@
-[
   {
     "kind": "admin#directory#chromeosdevice",
     "etag": "\"-vDsmNkFadksL3sdO9_llNHf95VVWFrsahpYPMFRU6U/MDashFY4rVa50IfQ44doY2rP_d8\"",
@@ -1025,4 +1024,3 @@
     "manufactureDate": "2019-09-20",
     "autoUpdateExpiration": "1780297200000"
   }
-]
