@@ -1,3 +1,4 @@
+[  
   {
     "kind": "admin#directory#chromeosdevice",
     "etag": "\"-vDsmNkFadksL3sdO9_llNHf95VVWFrsahpYPMFRU6U/MDashFY4rVa50IfQ44doY2rP_d8\"",
@@ -32,7 +33,7 @@
       "manufacturer": "49465800",
       "tpmModel": "ffffffff",
       "firmwareVersion": "420",
-      "vendorSpecific": " otpm38���"
+      "vendorSpecific": "XXHAjasjhjasjKASJ"
     },
     "cpuStatusReports": [
       {
@@ -509,7 +510,7 @@
       "manufacturer": "49465800",
       "tpmModel": "ffffffff",
       "firmwareVersion": "422",
-      "vendorSpecific": "\"�tpm38���"
+      "vendorSpecific": "jhkBJKBHJKBjhbhj"
     },
     "cpuStatusReports": [
       {
@@ -802,7 +803,7 @@
       "manufacturer": "49465800",
       "tpmModel": "ffffffff",
       "firmwareVersion": "420",
-      "vendorSpecific": " otpm38���"
+      "vendorSpecific": "JKBJHGVHFCVJHNHJKvbghjv"
     },
     "cpuStatusReports": [
       {
@@ -1024,3 +1025,4 @@
     "manufactureDate": "2019-09-20",
     "autoUpdateExpiration": "1780297200000"
   }
+]
